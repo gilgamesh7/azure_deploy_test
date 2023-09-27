@@ -8,6 +8,6 @@ RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 COPY . .
 
-EXPOSE 3100
+EXPOSE 8000
 
 CMD ["gunicorn", "main:app"]
