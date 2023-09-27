@@ -4,6 +4,7 @@ Testing deployment to Azure Webapp from GitHub through Actions
 # Links
 - [YouTube Video to generate simple FastAPI](https://youtu.be/cbASjoZZGIw?si=mW_yStDYRc-hU4vZ)
 - [How to run a FatsAPI app from Azure appservice](https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app-for-app-service?tabs=web-app-fastapi)
+- [How to set up Azure App settings](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal)
 
 # Run 
 ## Local - Using unicorn
