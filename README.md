@@ -6,6 +6,7 @@ Testing deployment to Azure Webapp from GitHub through Actions
 - [How to run a FatsAPI app from Azure appservice](https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app-for-app-service?tabs=web-app-fastapi)
 - [Deploying Python to Azure App Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-python-to-azure-app-service)
 - [Generate deployment credentials & Configure the GitHub secret](https://learn.microsoft.com/en-nz/azure/app-service/deploy-github-actions?tabs=applevel#generate-deployment-credentials)
+- [Python flask application in Azure web app only showing default page](https://stackoverflow.com/questions/76742725/python-flask-application-in-azure-web-app-only-showing-default-page)
 - [How to set up Azure App settings](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal)
 
 # Run 

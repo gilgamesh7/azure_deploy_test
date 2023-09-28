@@ -75,3 +75,7 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+      - name: 'Startup Gunicorn'
+        run: gunicorn --bind=0.0.0.0 main:app
+
+          
